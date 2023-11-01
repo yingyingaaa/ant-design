@@ -9,11 +9,11 @@ interface Option {
 
 const options: Option[] = [
   {
-    value: 'zhejiang',
+    value: '自营',
     label: 'Zhejiang',
     children: [
       {
-        value: 'hangzhou',
+        value: '非自营',
         label: 'Hangzhou',
         children: [
           {
